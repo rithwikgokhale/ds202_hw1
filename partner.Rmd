@@ -1,0 +1,24 @@
+---
+title: "partner"
+author: "Tyren Teav"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+Partner's name: 
+Rithwik Gokhale
+
+Partner's username:
+rithwikgokhale
+
+The owner's most recent commit was the HW 1 assignment with commit ID: 270ba2c
+
+I was able to knit hw1.Rmd without any errors
+
+
